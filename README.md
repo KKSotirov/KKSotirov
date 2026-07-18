@@ -1,10 +1,10 @@
 <div align="center">
 
-# Здравей, аз съм Калоян! 👋
+# Kaloyan Sotirov
 
-**Бъдещ софтуерен инженер | Студент във ФМИ София**
+**Software Engineering Student @ FMI Sofia**
 
-Фокусиран върху изграждането на чиста, мащабируема архитектура и задълбочено разбиране на C++ системи. Обичам предизвикателствата, които изискват управление на ресурси и оптимизация.
+Specializing in C++ systems programming, high-performance architecture, and resource management. Passionate about writing efficient, scalable, and memory-safe code.
 
 ---
 
@@ -16,12 +16,12 @@
 
 ---
 
-### 🚀 Избрани проекти
+### 🚀 Selected Projects
 
 **[Yu-Gi-Oh! C++ Simulator](https://github.com/KKSotirov/Yu-Gi-Oh-cpp-simulator)**
-*   *Полиморфна архитектура за игрова симулация.*
-*   *Управление на динамична памет и Rule of 3/5.*
-*   *Използване на абстрактни класове и виртуални функции.*
+*   Polymorphic architecture for game engine simulation.
+*   Manual dynamic memory management adhering to the Rule of 3/5.
+*   Implementation of abstract classes and virtual function interfaces.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 Как да се свържем?
+### 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-sotirov-69943b423/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sotrov.k3@gmail.com)
 
